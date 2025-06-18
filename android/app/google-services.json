@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "459193552282",
+    "firebase_url": "https://sandesh-c1218.firebaseio.com",
+    "project_id": "sandesh-c1218",
+    "storage_bucket": "sandesh-c1218.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459193552282:android:4acb390ca253ab2c34be23",
+        "android_client_info": {
+          "package_name": "com.innovativescripts.sandesh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzu6pqNowqiAq7-Iq8QHQh1cuXJ1H4PYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

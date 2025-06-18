@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://sandesh-c1218.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">459193552282</string>
+    <string name="google_api_key" translatable="false">AIzaSyDzu6pqNowqiAq7-Iq8QHQh1cuXJ1H4PYo</string>
+    <string name="google_app_id" translatable="false">1:459193552282:android:4acb390ca253ab2c34be23</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDzu6pqNowqiAq7-Iq8QHQh1cuXJ1H4PYo</string>
+    <string name="google_storage_bucket" translatable="false">sandesh-c1218.appspot.com</string>
+    <string name="project_id" translatable="false">sandesh-c1218</string>
+</resources>
