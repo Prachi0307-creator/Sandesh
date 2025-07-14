@@ -87,8 +87,7 @@ flutter run
 
 **Prachi Bhardwaj**  
 🔗 [GitHub](https://github.com/Prachi0307-creator)  
-📧 prachibhardwaj0307@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/prachi-bhardwaj-896689248)
+📧 prachibhardwaj0307@gmail.com
 
 ---
 
