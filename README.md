@@ -37,6 +37,7 @@ lib/
 ├── widgets/          # Reusable UI components
 └── main.dart         # App entry point
 ```
+---
 
 ## ⚙️ Firebase Setup
 
@@ -65,7 +66,7 @@ flutter pub get
 flutter run
 
 ```
-
+---
 ## 🙋‍♀️ Author
 
 **Prachi Bhardwaj**  
