@@ -28,32 +28,15 @@
 ---
 
 ## 📂 Project Structure
+
+```plaintext
 lib/
-├── main.dart                # Entry point of the app
-│
-├── screens/                # UI screens for navigation
-│   ├── login_screen.dart         # Login page UI
-│   ├── signup_screen.dart        # Signup page UI
-│   └── chat_screen.dart          # Main chat interface
-│
-├── services/               # Firebase and authentication services
-│   ├── auth_service.dart         # Handles login, signup, logout
-│   └── chat_service.dart         # Send/receive message logic
-│
-├── models/                 # Data models used in the app
-│   ├── user_model.dart           # User info structure
-│   └── message_model.dart        # Chat message structure
-│
-├── widgets/                # Reusable widgets across the app
-│   ├── chat_bubble.dart          # Message bubble UI component
-│   └── custom_textfield.dart     # Custom text input field
-│
-└── utils/                  # Utility classes/functions
-    └── constants.dart            # App-wide constants like colors, styles
-
-
-
----
+├── screens/          # UI Screens (Login, Signup, Chat)
+├── models/           # Data models (User, Message)
+├── services/         # Firebase-related services
+├── widgets/          # Reusable UI components
+└── main.dart         # App entry point
+```
 
 ## ⚙️ Firebase Setup
 
