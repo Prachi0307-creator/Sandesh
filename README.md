@@ -81,7 +81,7 @@ flutter pub get
 # 3. Run the app
 flutter run
 
--------
+```
 
 ## 🙋‍♀️ Author
 
