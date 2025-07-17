@@ -36,6 +36,7 @@ lib/
 ├── services/         # Firebase-related services
 ├── widgets/          # Reusable UI components
 └── main.dart         # App entry point
+
 ```
 ---
 
